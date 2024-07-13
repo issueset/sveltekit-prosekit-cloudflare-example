@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app
+		<span>SvelteKit + Cloudflare Pages</span>
 	</h1>
 
 	<h2>
