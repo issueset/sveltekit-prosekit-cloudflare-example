@@ -1,6 +1,6 @@
 <script>
 	import Counter from './Counter.svelte';
-	import Editor from '../components/svelte-minimal/editor.svelte';
+	import EditorDynamic from './EditorDynamic.svelte';
 	import welcome from '$lib/images/svelte-welcome.webp';
 	import welcome_fallback from '$lib/images/svelte-welcome.png';
 </script>
@@ -19,7 +19,7 @@
 			</picture>
 		</span>
 
-		<span class="hover:text-orange-600">SvelteKit + Cloudflare Pages</span>
+		<span class="hover:text-orange-600">SvelteKit + ProseKit + Cloudflare Pages</span>
 	</h1>
 
 	<h2>
@@ -28,7 +28,7 @@
 
 	<Counter />
 
-	<Editor />
+	<EditorDynamic />
 </section>
 
 <style>
