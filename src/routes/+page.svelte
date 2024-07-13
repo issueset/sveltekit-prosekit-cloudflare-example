@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		<span>SvelteKit + Cloudflare Pages</span>
+		<span class="hover:text-orange-600">SvelteKit + Cloudflare Pages</span>
 	</h1>
 
 	<h2>
