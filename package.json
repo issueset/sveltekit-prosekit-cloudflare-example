@@ -9,6 +9,9 @@
 		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch"
 	},
 	"devDependencies": {
+		"prosekit": "0.9.6",
+		"@egoist/tailwindcss-icons": "1.8.1",
+		"@iconify-json/lucide": "1.1.199",		
 		"@fontsource/fira-mono": "^4.5.10",
 		"@neoconfetti/svelte": "^1.0.0",
 		"@sveltejs/adapter-auto": "^3.0.0",

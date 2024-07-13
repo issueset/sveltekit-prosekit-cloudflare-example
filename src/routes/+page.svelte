@@ -1,5 +1,6 @@
 <script>
 	import Counter from './Counter.svelte';
+	import Editor from '../components/svelte-minimal/editor.svelte';
 	import welcome from '$lib/images/svelte-welcome.webp';
 	import welcome_fallback from '$lib/images/svelte-welcome.png';
 </script>
@@ -26,6 +27,8 @@
 	</h2>
 
 	<Counter />
+
+	<Editor />
 </section>
 
 <style>
